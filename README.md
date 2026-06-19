@@ -1,3 +1,3 @@
 # social-jurimetrie-local
 
-Depot initialise pour publier l'application Streamlit locale.
+Application Streamlit locale de jurimétrie sociale.
